@@ -3,3 +3,15 @@ export const brands = [
     { id: 2, name: "American" },
     { id: 3, name: "Asiatic" },
 ];
+
+const YEARMAX = new Date().getFullYear();
+
+export const Years = Array.from(new Array(20), (val, index) => YEARMAX - index);
+
+console.log(Years);
+
+export const plans = [
+    { id: 1, name: "Basic" },
+    { id: 2, name: "Full" },
+    { id: 3, name: "Premium" },
+];
