@@ -8,7 +8,6 @@ const YEARMAX = new Date().getFullYear();
 
 export const Years = Array.from(new Array(20), (val, index) => YEARMAX - index);
 
-console.log(Years);
 
 export const plans = [
     { id: 1, name: "Basic" },
