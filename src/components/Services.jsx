@@ -9,7 +9,7 @@ const Services = () => {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 p-10">
                 <article className="bg-blue-800 rounded-lg shadow-xl p-10 text-white">
-                    <div className="w-full">
+                    <div>
                         <img src={monitor} alt="monitor" className="w-full" />
                     </div>
 
