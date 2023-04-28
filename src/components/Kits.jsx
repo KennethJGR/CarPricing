@@ -64,7 +64,7 @@ const Kits = () => {
                     >
                         <div>
                             <h3 className="text-left text-2xl ">Basico</h3>
-                            <h3 className="text-left text-4xl font-black">$20/Año</h3>
+                            <h3 className="text-left text-4xl font-black">$50/Año</h3>
                         </div>
 
                         <ul className="">
@@ -109,7 +109,7 @@ const Kits = () => {
                     >
                         <div>
                             <h3 className="text-left text-2xl ">Basico</h3>
-                            <h3 className="text-left text-4xl font-black">$20/Año</h3>
+                            <h3 className="text-left text-4xl font-black">$100/Año</h3>
                         </div>
 
                         <ul className="">

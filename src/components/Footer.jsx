@@ -25,40 +25,33 @@ const Footer = () => {
                         <p className="font-black text-2xl">Redes sociales</p>
                     </h2>
 
-                    <h2 className="flex justify-center gap-3  mb-2  ">
+                    <h2 className="flex items-center justify-center gap-3 mb-2">
                         <AiFillFacebook className="text-3xl" />
-
                         <p className="text-center text-xl font-black">
                             <a href="https://www.facebook.com/BarterCapital-100101632425227">
                                 Facebook
                             </a>
                         </p>
                     </h2>
-                    <h2 className="flex justify-center gap-3  mb-2  ">
+
+                    <h2 className="flex items-center justify-center gap-3 mb-2">
                         <AiFillTwitterCircle className="text-3xl" />
-
                         <p className="text-center text-xl font-black">
-                            <a href="https://www.facebook.com/BarterCapital-100101632425227">
-                                Twitter
-                            </a>
+                            <a href="https://twitter.com/BarterCapital">Twitter</a>
                         </p>
                     </h2>
-                    <h2 className="flex justify-center gap-3  mb-2  ">
+
+                    <h2 className="flex items-center justify-center gap-3 mb-2">
                         <AiFillInstagram className="text-3xl" />
-
                         <p className="text-center text-xl font-black">
-                            <a href="https://www.facebook.com/BarterCapital-100101632425227">
-                                Instagram
-                            </a>
+                            <a href="https://www.instagram.com/bartercapital/">Instagram</a>
                         </p>
                     </h2>
-                    <h2 className="flex justify-center gap-3  mb-2  ">
-                        <BsDiscord className="text-3xl" />
 
+                    <h2 className="flex items-center justify-center gap-3 mb-2">
+                        <BsDiscord className="text-3xl" />
                         <p className="text-center text-xl font-black">
-                            <a href="https://www.facebook.com/BarterCapital-100101632425227">
-                                Discord
-                            </a>
+                            <a href="https://discord.gg/bartercapital">Discord</a>
                         </p>
                     </h2>
                 </div>
