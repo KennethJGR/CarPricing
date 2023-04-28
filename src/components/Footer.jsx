@@ -13,7 +13,7 @@ const Footer = () => {
     return (
         <footer className="text-white">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 p-10">
-                <div className="">
+                <div className="flex flex-col items-center">
                     <img src={logo} alt="logo" className="w-40" />
                     <h2 className="text-xl">
                         Copyright 2023 - BarterCapital Todos los derechos reservados
