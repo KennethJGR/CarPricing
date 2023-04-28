@@ -1,11 +1,11 @@
-import AppSafe from "./components/AppSafe";
+import AppTest from "./components/AppTest";
 
 import "./App.css";
 
 function App() {
   return (
 
-      <AppSafe />
+      <AppTest />
 
   );
 }
